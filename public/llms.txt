@@ -1,0 +1,37 @@
+# 123fenetre.fr — Guide & Comparateur Fenêtres PVC, Alu, Bois & Isolation RGE
+
+> L
+
+## Présentation générale
+123fenetre.fr — Guide & Comparateur Fenêtres PVC, Alu, Bois & Isolation RGE (https://123fenetre.fr) est un média d'information et guide spécialisé indépendant dédié à sa thématique d'expertise. Notre mission est d'apporter une information fiable, vérifiée et actualisée aux passionnés, professionnels et résidents, en valorisant les meilleures pratiques, les acteurs locaux et l'art de vivre sous les alizés.
+
+## Structure du site & Thématiques phares
+Le contenu est structuré autour des axes éditoriaux majeurs suivants :
+
+- **Fenêtres PVC** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Menuiserie Aluminium** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Isolation & Énergie** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Aides & MaPrimeRénov** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Guides & Pose RGE** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+
+## Ressources & Publications
+- [Tous les articles du Magazine](https://123fenetre.fr/blog/) : Plus de 39 publications thématiques, guides d'experts et fiches pratiques rédigées par notre rédaction.
+- [Accueil international (English)](https://123fenetre.fr/en/) : Version anglophone des dossiers et guides de référence.
+- [Accueil international (Español)](https://123fenetre.fr/es/) : Version hispanophone des dossiers et guides de référence.
+
+## Éthique éditoriale & Charte de qualité
+123fenetre.fr — Guide & Comparateur Fenêtres PVC, Alu, Bois & Isolation RGE s'engage au quotidien sur une charte stricte :
+- Production d'analyses indépendantes, objectives et fondées sur des données terrain.
+- Sensibilisation active au respect de l'environnement local et à la préservation des écosystèmes.
+- Valorisation des artisans, commerces, initiatives durables et talents régionaux.
+
+## Données techniques & Respect de la vie privée
+- Plateforme statique haute performance (Astro 5 SSG, hébergement Edge Cloudflare Pages).
+- Mesure d'audience 100% cookieless via Matomo auto-hébergé, strictement conforme au RGPD et exemptée de consentement préalable selon les recommandations de la CNIL.
+- Régie publicitaire Revive Adserver intégrée de façon asynchrone garantissant une vitesse d'affichage optimale sans traçage intrusif.
+
+## Informations légales & Contact
+- Éditeur : 123fenetre.fr — Observatoire Indépendant de la Rénovation Énergétique
+- Contact rédaction : contact@123fenetre.fr
+- Mentions Légales : https://123fenetre.fr/mentions-legales/
+- Politique de Confidentialité : https://123fenetre.fr/politique-confidentialite/
